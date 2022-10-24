@@ -1,0 +1,8 @@
+nome;cognome;datanascita;luogonascita;nazionalita;indirizzo;telefono;email;lingue;automunito;patenti;dispoin;dispofin;dispozona
+Tiziano;Tezze;21/05/2001;Bassano del grappa;Italia;Lonigo;3931716013;tiziano.tezze@studenti.univr.it;italiano-inglese;1;AM-B;03/10/2022;23/12/2022;Verona
+Nicolo;Piccoli;05/03/2001;valdagno;Italia;Cornedo Vicentino;3272452321;nicolo.piccoli_02@studenti.univr.it;italiano-inglese;1;AM-B;01/01/2023;28/02/2023;Verona-Vicenza
+davide;rossignolo;04/05/2001;verona;Afghanistan;verona;3465653;davide.rossignolo@studenti.univr.it;greco-albanese;1;C;12/12/2022;15/10/2024;grumolo delle abbadesse-bassano del grappa
+igor;Miti;10/12/2002;arno;Afghanistan;aosta;658858;igormiti@gmail.com;italiano-veneto-calabrese-inglese;1;A-C;01/01/2023;25/10/2024;napoli-vercelli-pordenone
+pippo;giovanardi;10/08/2003;parigi;Francia;pordenone;;pippogiovanard@gmail.com;francese-italiano-inglese;1;AM;10/06/2023;10/09/2023;pordenone-vibo valentia-bari
+pippo;giovanardi;10/08/2003;parigi;Francia;pordenone;548793875;pippogiovanard@gmail.com;francese-italiano-inglese;1;AM;10/06/2023;10/09/2023;pordenone-vibo valentia-bari
+pinco;panco;10/10/2001;parigi;Francia;verona;6564534;pinco@gmail.it;italiano-inglese;1;AM;27/09/2022;01/01/2023;padova-vicenza
